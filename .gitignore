@@ -1,4 +1,4 @@
-// ignore tf state files
+// ignore tf state files and credentials
 .terraform
 .terraform.lock.hcl
 credentials.auto.tfvars
